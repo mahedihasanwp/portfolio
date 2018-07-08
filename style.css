@@ -1,0 +1,51 @@
+#active{
+	color:#ea6660;
+	-webkit-transition: .5s;
+	-moz-transition: .5s;
+	-o-transition: .5s;
+	transition: .5s;
+}
+
+
+.contemplete{
+	margin:0 auto;
+	width: 928px;
+}
+.clear{
+	overflow: hidden;
+}
+
+.contact{
+	
+}
+input[type="text"], input[type="email"] {
+	border:1px solid #cfc5b6;
+	border-radius: 3px;
+	margin-bottom: 5px;
+	padding:5px;
+	width: 400px;
+}
+input[type="submit"]{
+	background-color: #c48d29;
+	border:1px solid #b7801c;
+	color:#fff;
+	cursor:pointer;
+	font-size: 20px;
+	padding:1px 10px;
+}
+input[type="submit"]:hover{
+	background-color: #2f2d2e;
+	color:#fff;
+}
+textarea{
+	height: 110px;
+	margin-bottom: 10px;
+	padding:5px;
+	width: 400px;
+	border:1px solid #cfc5b6;
+}
+.aboutdetail{
+	margin-bottom: 40px;
+	margin-top: 40px;
+	margin-left: 200px;
+}
